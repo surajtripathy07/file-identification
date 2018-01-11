@@ -1,0 +1,13 @@
+fileInfo
+fileInfo.config
+fileInfo.console
+fileInfo.core.constants
+fileInfo.core.filesource
+fileInfo.core.models
+fileInfo.core.processor
+fileInfo.core.processor.pipeline
+fileInfo.ws.constant
+fileInfo.ws.controller
+fileInfo.ws.response
+fileInfo.ws.service
+fileInfo.ws.service.impl
