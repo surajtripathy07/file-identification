@@ -1,5 +1,5 @@
  ## Overview:
-The following is a maven project. 
+The following is a Java Maven project. 
 The core logic of the project takes fileName as input and extracts fileName specific informations form various (in this case 2) data-sources.
 The code can be tested via two input mechanisms.
 
